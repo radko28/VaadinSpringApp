@@ -1,0 +1,2 @@
+insert into users values('4028818b3cee0837013cee08bf600000','2013-02-18 16:59:51.233','2013-02-18 17:00:16.203','admin@admin.sk',TRUE,'admin','admin','a40546cc4fd6a12572828bb803380888ad1bfdab',null,'admin');
+insert into authorities values('4028818b3cee0837013cee08bf6a0001','ROLE_ADMIN','admin','4028818b3cee0837013cee08bf600000');

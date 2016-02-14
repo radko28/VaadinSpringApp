@@ -1,0 +1,20 @@
+@import "../reindeer/reindeer.scss";
+
+@mixin mytheme {
+  @include reindeer;
+  
+.header-label {font-size: 32px;line-height: normal;}
+.header-label-2 {font-size: 16px;font-weight:bold;line-height: normal;}
+.input-label {text-align:left;}
+.link-label {text-align:center;width:7px;}
+.header-span {width:150px;}
+.error-label {font-size: 12px;font-weight:bold;color: red;}
+.v-panel {background-color: white;}
+.disabled {background-color: #D0D0D0;}
+.v-textarea-input-lang {width:400px;
+height:100px;
+ }
+}
+
+
+
